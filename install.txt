@@ -1,0 +1,1 @@
+Copy Sigf.tmod into Documents/My Games/Terraria/tModLoader/Mods and enable the mod in tModLoader's Mods menu. Start a world in a forest: mercenaries spawn there, and Red Soldiers sometimes drop the Rocket Launcher.

@@ -1,0 +1,5 @@
+1. 0-10 s: title and RED/BLU scoreboard; a Scout, Heavy and Soldier approach from both sides and the rocket launcher fires.
+2. 10 s: Scout rush from both sides, runners with a visible run cycle.
+3. 20 s: Pyro ambush with flames and embers.
+4. 30 s: Heavy rush with minigun fire.
+5. 40 s: Soldiers fire rockets; each kill throws a ragdoll, a popup and a kill-feed line.
