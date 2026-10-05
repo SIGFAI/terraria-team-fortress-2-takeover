@@ -3,6 +3,13 @@
   "version": "1.0.0",
   "name": "Team Fortress 2 Takeover",
   "tagline": "Bring Team Fortress 2 into the game in the most visible and funny way. The change shows in the first 30 seconds of play.",
+  "how_to_play": [
+    "TF2 mercenaries invade: RED Scouts, Soldiers and Pyros and BLU Heavies attack in named waves every few seconds.",
+    "Blast them with the Rocket Launcher the mod puts in your first hotbar slot; Red Soldiers can also drop one.",
+    "Mercs go flying as ragdolls when they die and drop silver coins.",
+    "Create or enter any world; the first wave arrives two seconds after it loads.",
+    "Your character currently walks and attacks on its own (autopilot) and cannot be hurt."
+  ],
   "kind": "mashup",
   "games": [
     {
@@ -74,8 +81,5 @@
     "id": "terraria",
     "status": "draft"
   },
-  "built_at": "2026-10-05T15:28:46.042Z",
-  "notes": [
-    "Copy Sigf.tmod into Documents/My Games/Terraria/tModLoader/Mods and enable the mod in tModLoader's Mods menu. Start a world in a forest: mercenaries spawn there, and Red Soldiers sometimes drop the Rocket Launcher."
-  ]
+  "built_at": "2026-10-05T15:28:46.042Z"
 }
